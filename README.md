@@ -15,7 +15,7 @@ License: Creative Commons Attribution 4.0 International ([CC BY 4.0](https://cre
 
 Created by: Arno Klein (arno@childmind.org)
 
-Developers: [MATTER Lab](https://matter.childmind.org), [Child Mind Institute](https://childmind.org), NY 
+Developers: [MATTER Lab](https://matter.childmind.org) at the [Child Mind Institute](https://childmind.org) in Manhattan 
 
 Current information about its content, contributors, and changes 
 can be found on the website: https://github.com/ChildMindInstitute/mhdb
