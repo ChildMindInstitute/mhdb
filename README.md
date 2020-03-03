@@ -1,10 +1,9 @@
-# mhdb
-mental health linked open database
-
 ![mhdb-logo](mhdb-logo.png)
 
+# mhdb: mental health database
+
 ## Database content
-The Mental Health Database (mhdb) includes modules:
+The Mental Health Database (mhdb) is a linked open data (rdf) graph database that includes modules:
 
   - Mental **states** (mhdb-states)
   - Mental health **disorders** (mhdb-disorders)
