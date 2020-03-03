@@ -11,8 +11,10 @@ The Mental Health Database (mhdb) includes the following modules:
   - mhdb-assessments: Mental health **assessments**
   - mhdb-measures: Physical **measures** and sensors
 
-License: Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)): 
+License: Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
 Created by: Arno Klein (arno@childmind.org)
+
 Developers: [MATTER Lab](https://matter.childmind.org), [Child Mind Institute](https://childmind.org), NY 
 
 Current information about its content, contributors, and changes 
