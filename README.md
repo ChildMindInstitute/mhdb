@@ -3,21 +3,22 @@
 # mhdb: mental health database
 
 ## Database content
-The Mental Health Database (mhdb) is a linked open data (rdf) graph database that includes modules:
+The Mental Health Database (mhdb) includes the following modules:
 
-  - Mental **states** (mhdb-states)
-  - Mental health **disorders** (mhdb-disorders)
-  - Mental health **resources** (mhdb-resources)
-  - Mental health **assessments** (mhdb-assessments)
-  - Physical **measures** and sensors (mhdb-measures)
-  
-The database is licensed under the terms of the Creative Commons Attribution 4.0 International 
-([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license),
-and was created by [Arno Klein](https://binarybottle.com) (arno@childmind.org) at the [MATTER Lab](https://matter.childmind.org) 
-of the [Child Mind Institute](https://childmind.org). 
+  - mhdb-states: Mental **states**
+  - mhdb-disorders: Mental health **disorders**
+  - mhdb-resources: Mental health **resources**
+  - mhdb-assessments: Mental health **assessments**
+  - mhdb-measures: Physical **measures** and sensors
+
+License: Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)): 
+https://creativecommons.org/licenses/by/4.0/
+
+Created by: Arno Klein (arno@childmind.org)
+Developers: [MATTER Lab](https://matter.childmind.org), [Child Mind Institute](https://childmind.org), NY 
 
 Current information about its content, contributors, and changes 
-can be found on the website https://github.com/ChildMindInstitute/mhdb.
+can be found on the website: https://github.com/ChildMindInstitute/mhdb
 
 ## More information
 
