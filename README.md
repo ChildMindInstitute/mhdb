@@ -1,7 +1,7 @@
 # mhdb
 mental health linked open database
 
-## Database contents
+## Database content
 The Mental Health Database (mhdb) includes modules:
 
   - Mental **states** (mhdb-states)
