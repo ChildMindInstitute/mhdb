@@ -11,7 +11,7 @@ The Mental Health Database (mhdb) includes the following modules:
   - mhdb-assessments: Mental health **assessments**
   - mhdb-measures: Physical **measures** and sensors
 
-[Preview graph](http://54.210.58.138:7200)
+//[Preview graph](http://54.210.58.138:7200)
 
 License: Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
